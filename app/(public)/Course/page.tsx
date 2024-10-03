@@ -1,4 +1,4 @@
-import Enroll from "@/app/Conponents/Enroll";
+import Enroll from "./app/Conponents/Enroll";
 
 
 
